@@ -27,6 +27,3 @@ class mingpian():
 b = mingpian()
 b.mp()
 
-
-
-
